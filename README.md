@@ -1,5 +1,5 @@
 # steganography
-Image Steganography + cryptography
+Image Steganography + cryptography(particularly Vigenere Cipher)
 
 here is the youtube link to the detailed description of the video!!
 https://youtu.be/tdUvvmXNr0U
